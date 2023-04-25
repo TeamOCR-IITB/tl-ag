@@ -1,6 +1,14 @@
 {
+    "Corrector::V-1": {
+        "directory": "Corrector::V-1",
+        "seconds": 0
+    },
     "Corrector:Page0201.txt:V-1": {
         "directory": "Corrector:Page0201.txt:V-1",
+        "seconds": 0
+    },
+    "Corrector:Page0202.txt:V-1": {
+        "directory": "Corrector:Page0202.txt:V-1",
         "seconds": 0
     },
     "Verifier:page-201.txt:V-0": {
