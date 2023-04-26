@@ -431,12 +431,28 @@
         "directory": "Corrector:Page0300.txt:V-1",
         "seconds": 0
     },
+    "Corrector:Page0301.html:V-1": {
+        "directory": "Corrector:Page0301.html:V-1",
+        "seconds": 0
+    },
     "Corrector:Page0301.txt:V-1": {
         "directory": "Corrector:Page0301.txt:V-1",
         "seconds": 0
     },
+    "Corrector:Page0302.html:V-1": {
+        "directory": "Corrector:Page0302.html:V-1",
+        "seconds": 0
+    },
     "Corrector:Page0302.txt:V-1": {
         "directory": "Corrector:Page0302.txt:V-1",
+        "seconds": 0
+    },
+    "Corrector:Page0303.txt:V-1": {
+        "directory": "Corrector:Page0303.txt:V-1",
+        "seconds": 0
+    },
+    "Corrector:Page0304.txt:V-1": {
+        "directory": "Corrector:Page0304.txt:V-1",
         "seconds": 0
     },
     "Verifier:page-201.txt:V-0": {
