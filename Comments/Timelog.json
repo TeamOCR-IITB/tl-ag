@@ -879,6 +879,10 @@
         "directory": "Corrector:Page0406.txt:V-1",
         "seconds": 0
     },
+    "Corrector:Page0407.html:V-1": {
+        "directory": "Corrector:Page0407.html:V-1",
+        "seconds": 0
+    },
     "Corrector:Page0407.txt:V-1": {
         "directory": "Corrector:Page0407.txt:V-1",
         "seconds": 0
@@ -897,6 +901,10 @@
     },
     "Corrector:Page0411.txt:V-1": {
         "directory": "Corrector:Page0411.txt:V-1",
+        "seconds": 0
+    },
+    "Corrector:Page0412.html:V-1": {
+        "directory": "Corrector:Page0412.html:V-1",
         "seconds": 0
     },
     "Corrector:Page0412.txt:V-1": {
@@ -931,8 +939,16 @@
         "directory": "Corrector:Page0419.txt:V-1",
         "seconds": 0
     },
+    "Corrector:Page0420.html:V-1": {
+        "directory": "Corrector:Page0420.html:V-1",
+        "seconds": 0
+    },
     "Corrector:Page0420.txt:V-1": {
         "directory": "Corrector:Page0420.txt:V-1",
+        "seconds": 0
+    },
+    "Corrector:Page0421.txt:V-1": {
+        "directory": "Corrector:Page0421.txt:V-1",
         "seconds": 0
     },
     "Verifier:page-201.txt:V-0": {
