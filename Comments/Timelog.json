@@ -3,6 +3,10 @@
         "directory": "Corrector::V-1",
         "seconds": 0
     },
+    "Corrector:Page0501.html:V-1": {
+        "directory": "Corrector:Page0501.html:V-1",
+        "seconds": 0
+    },
     "Corrector:Page0501.txt:V-1": {
         "directory": "Corrector:Page0501.txt:V-1",
         "seconds": 0
@@ -115,6 +119,10 @@
         "directory": "Corrector:Page0526.txt:V-1",
         "seconds": 0
     },
+    "Corrector:Page0527.html:V-1": {
+        "directory": "Corrector:Page0527.html:V-1",
+        "seconds": 0
+    },
     "Corrector:Page0527.txt:V-1": {
         "directory": "Corrector:Page0527.txt:V-1",
         "seconds": 0
@@ -139,6 +147,10 @@
         "directory": "Corrector:Page0532.txt:V-1",
         "seconds": 0
     },
+    "Corrector:Page0533.html:V-1": {
+        "directory": "Corrector:Page0533.html:V-1",
+        "seconds": 0
+    },
     "Corrector:Page0533.txt:V-1": {
         "directory": "Corrector:Page0533.txt:V-1",
         "seconds": 0
@@ -147,12 +159,76 @@
         "directory": "Corrector:Page0534.txt:V-1",
         "seconds": 0
     },
+    "Corrector:Page0535.html:V-1": {
+        "directory": "Corrector:Page0535.html:V-1",
+        "seconds": 0
+    },
     "Corrector:Page0535.txt:V-1": {
         "directory": "Corrector:Page0535.txt:V-1",
         "seconds": 0
     },
     "Corrector:Page0536.txt:V-1": {
         "directory": "Corrector:Page0536.txt:V-1",
+        "seconds": 0
+    },
+    "Corrector:p-001.html:V-1": {
+        "directory": "Corrector:p-001.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:p-020.html:V-1": {
+        "directory": "Corrector:p-020.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:p-057.html:V-1": {
+        "directory": "Corrector:p-057.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:p-097.html:V-1": {
+        "directory": "Corrector:p-097.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:p-140.html:V-1": {
+        "directory": "Corrector:p-140.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:p-150.html:V-1": {
+        "directory": "Corrector:p-150.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:p-151.html:V-1": {
+        "directory": "Corrector:p-151.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:p-152.html:V-1": {
+        "directory": "Corrector:p-152.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:p-153.html:V-1": {
+        "directory": "Corrector:p-153.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:p-155.html:V-1": {
+        "directory": "Corrector:p-155.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:p-156.html:V-1": {
+        "directory": "Corrector:p-156.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:p-157.html:V-1": {
+        "directory": "Corrector:p-157.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:p-158.html:V-1": {
+        "directory": "Corrector:p-158.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:p-159.html:V-1": {
+        "directory": "Corrector:p-159.html:V-1",
+        "seconds": 0
+    },
+    "Corrector:p-160.html:V-1": {
+        "directory": "Corrector:p-160.html:V-1",
         "seconds": 0
     },
     "Verifier:page-201.txt:V-0": {
