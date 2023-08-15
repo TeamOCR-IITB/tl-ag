@@ -1,11 +1,163 @@
 {
-    "AverageCharAccuracy": 95.23809814453125,
+    "AverageCharAccuracy": 97.5,
     "AverageCharErrors": 0,
     "AverageWordAccuracy": 100,
     "AverageWordErrors": 0,
     "Rating-V0": 1,
-    "Rating-V1": null,
+    "Rating-V1": 2,
     "pages": {
+        "Page0301": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0301",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0302": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0302",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0303": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0303",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0304": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0304",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0305": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0305",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0306": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0306",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0307": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0307",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0308": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0308",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0309": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0309",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0311": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0311",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0323": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0323",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0341": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0341",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0385": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0385",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0389": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0389",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0393": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0393",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0395": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0395",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0397": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0397",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0399": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0399",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0400": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0400",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
         "page-201": {
             "characcuracy": 100,
             "charerrors": 0,
