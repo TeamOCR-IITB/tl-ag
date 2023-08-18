@@ -1,11 +1,763 @@
 {
-    "AverageCharAccuracy": 95.23809814453125,
+    "AverageCharAccuracy": 99.13043212890625,
     "AverageCharErrors": 0,
     "AverageWordAccuracy": 100,
     "AverageWordErrors": 0,
     "Rating-V0": 1,
-    "Rating-V1": null,
+    "Rating-V1": 4,
     "pages": {
+        "Page0801": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0801",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0802": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0802",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0803": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0803",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0804": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0804",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0805": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0805",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0806": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0806",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0807": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0807",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0808": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0808",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0809": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0809",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0810": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0810",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0811": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0811",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0812": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0812",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0819": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0819",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0820": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0820",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0821": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0821",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0822": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0822",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0823": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0823",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0824": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0824",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0825": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0825",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0826": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0826",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0827": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0827",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0828": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0828",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0829": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0829",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0830": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0830",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0831": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0831",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0832": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0832",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0833": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0833",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0834": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0834",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0835": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0835",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0836": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0836",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0837": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0837",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0838": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0838",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0839": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0839",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0840": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0840",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0841": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0841",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0842": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0842",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0843": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0843",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0844": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0844",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0845": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0845",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0846": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0846",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0847": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0847",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0848": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0848",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0849": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0849",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0850": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0850",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0851": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0851",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0852": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0852",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0853": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0853",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0854": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0854",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0855": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0855",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0856": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0856",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0857": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0857",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0858": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0858",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0859": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0859",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0860": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0860",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0861": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0861",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0862": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0862",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0863": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0863",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0864": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0864",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0865": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0865",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0866": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0866",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0867": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0867",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0868": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0868",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0869": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0869",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0870": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0870",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0871": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0871",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0872": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0872",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0873": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0873",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0874": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0874",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0875": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0875",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0876": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0876",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0877": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0877",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0878": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0878",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0879": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0879",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0880": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0880",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0881": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0881",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0882": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0882",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0883": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0883",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0884": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0884",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0885": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0885",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0886": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0886",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0887": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0887",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0888": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0888",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0889": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0889",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0890": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0890",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0891": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0891",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0892": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0892",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0893": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0893",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0894": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0894",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0895": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0895",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0896": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0896",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0897": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0897",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0898": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0898",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0899": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0899",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
+        "Page0900": {
+            "characcuracy": 100,
+            "charerrors": 0,
+            "comments": "",
+            "pagename": "Page0900",
+            "wordaccuracy": 100,
+            "worderrors": 0
+        },
         "page-201": {
             "characcuracy": 100,
             "charerrors": 0,
